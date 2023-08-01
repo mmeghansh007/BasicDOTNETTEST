@@ -1,0 +1,15 @@
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\bin\Debug\net6.0\ConsoleAppForPlaygroundFootball.exe
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\bin\Debug\net6.0\ConsoleAppForPlaygroundFootball.deps.json
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\bin\Debug\net6.0\ConsoleAppForPlaygroundFootball.runtimeconfig.json
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\bin\Debug\net6.0\ConsoleAppForPlaygroundFootball.dll
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\bin\Debug\net6.0\ConsoleAppForPlaygroundFootball.pdb
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.csproj.AssemblyReference.cache
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.AssemblyInfoInputs.cache
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.AssemblyInfo.cs
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.csproj.CoreCompileInputs.cache
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.dll
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\refint\ConsoleAppForPlaygroundFootball.dll
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.pdb
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ConsoleAppForPlaygroundFootball.genruntimeconfig.cache
+C:\Users\mamid\source\repos\ConsoleAppForPlaygroundFootball\ConsoleAppForPlaygroundFootball\obj\Debug\net6.0\ref\ConsoleAppForPlaygroundFootball.dll
